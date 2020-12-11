@@ -61,8 +61,8 @@ nav{
    margin-top: 10px;
     border-radius: 3px;
     border: 1px solid lightslategray;
-    padding: 8px;
-    width: 270px;
+    padding: 3%;
+    width: 95%;
 }
 .input-1 > button{
     color: white;
@@ -100,8 +100,8 @@ nav{
     margin-top: 10px;
      border-radius: 3px;
      border: 1px solid lightslategray;
-     padding: 8px;
-     width: 270px;
+     padding: 3%;
+    width: 95%;
 }
 .input-2 > div > select{
     color: rgb(144, 144, 144);
